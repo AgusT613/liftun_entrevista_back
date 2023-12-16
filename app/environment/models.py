@@ -1,10 +1,10 @@
 from django.db import models
 
 actions = [
-    ("betterWorld", "Better World"),
-    ("betterPlace", "Better Place"),
-    ("betterCompany", "Better Company"),
-    ("betterProfit", "Better Profit"),
+    ("Better World", "Better World"),
+    ("Better Place", "Better Place"),
+    ("Better Company", "Better Company"),
+    ("Better Profit", "Better Profit"),
 ]
 
 
